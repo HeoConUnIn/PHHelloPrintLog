@@ -1,0 +1,6 @@
+framework module PHHelloPrintLog {
+  umbrella header "PHHelloPrintLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_PHHelloPrintLog_Tests {
+  umbrella header "Pods-PHHelloPrintLog_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
